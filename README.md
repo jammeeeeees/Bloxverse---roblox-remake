@@ -1,1 +1,1 @@
-# Bloxverse---roblox-remake
+This is a remake of roblox, in order to open the software, you must open the zip file, open "Open Bloxverse.html" click open website, and it will bring it to you, there should also be something telling you how to get the electron system for it.
